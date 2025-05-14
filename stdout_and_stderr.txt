@@ -1,0 +1,15 @@
+total 365
+-rw-r--r-- 1 Admin Administratorzy  53342 Jan 27 18:42 Cygwin-Terminal.ico
+-rwxr-xr-x 1 Admin Administratorzy     88 Jan 27 18:41 Cygwin.bat
+-rw-r--r-- 1 Admin Administratorzy 157097 Jan 27 18:42 Cygwin.ico
+drwxr-xr-x 1 Admin Administratorzy      0 Jan 27 18:42 bin
+dr-xr-xr-x 1 micha micha                0 Apr  7 22:20 cygdrive
+drwxr-xr-x 1 Admin Administratorzy      0 Jan 27 18:40 dev
+drwxr-xr-x 1 Admin Administratorzy      0 Jan 27 18:42 etc
+drwxrwxrwt 1 Admin Administratorzy      0 Apr  2 01:04 home
+drwxr-xr-x 1 Admin Administratorzy      0 Jan 27 18:41 lib
+dr-xr-xr-x 9 micha micha                0 Apr  7 22:20 proc
+drwxr-xr-x 1 Admin Administratorzy      0 Jan 27 18:41 sbin
+drwxrwxrwt 1 Admin Administratorzy      0 Jan 27 18:40 tmp
+drwxr-xr-x 1 Admin Administratorzy      0 Jan 27 18:41 usr
+drwxr-xr-x 1 Admin Administratorzy      0 Jan 27 18:41 var
